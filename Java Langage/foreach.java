@@ -1,12 +1,12 @@
-/*----------------Length of an array-------------------
+/*----------------Length of an array-------------------*/
 class foreach{
     public static void main(String[] args){
         int [] marks = {100,99,98,97,96};
         System.out.println(marks.length);//.length is used to find length of an array
     }
-}*/
+}
 
-/*Q.WAP to print the elements of an array using .length.
+/*Q.WAP to print the elements of an array using .length.*/
 class foreach{
     public static void main(String[] args){
         int [] marks = {100,99,98,97,96};
@@ -14,7 +14,7 @@ class foreach{
             System.out.println(marks[i]);
         }
     }
-}*/
+}
 
 /*Q.WAP to print the elements of an array reverse using .length.*/
 class foreach{
